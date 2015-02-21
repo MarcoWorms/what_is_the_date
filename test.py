@@ -1,8 +1,7 @@
 import shutil
 import re
 import subprocess
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 tomorrow = "Feb 22 2015 03:11AM"
 today = "Feb 21 2015 03:10AM"
